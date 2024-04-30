@@ -7,4 +7,4 @@ My background as a neurological physical therapist cultivated a passion for comp
 ### 🤝Let's Get in Touch
 - [Website](https://veronika-todd.com)
 - [LinkedIn](https://www.linkedin.com/in/veronika-todd/)
-- [MIMIC Case Study](https://mimic-replay.com/#case-study)
+- [Email](mailto:veronika.todd@gmail.com)
