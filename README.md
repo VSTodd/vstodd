@@ -4,7 +4,7 @@ I am a full-stack Software Engineer currently based in Greater Hartford, Connect
 
 My background as a neurological physical therapist cultivated a passion for complex problem solving within collaborative environments—a skill that has significantly deepened in my software engineering career. I am actively seeking my next opportunity to tackle new challenges, contribute to innovative projects, and further my technical development.
 
-### 🤝Let's Get in Touch
+### ✉ Let's Get in Touch
 - [Website](https://veronika-todd.com)
 - [LinkedIn](https://www.linkedin.com/in/veronika-todd/)
 - [Email](mailto:veronika.todd@gmail.com)
